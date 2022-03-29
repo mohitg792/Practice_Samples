@@ -1,3 +1,11 @@
+/*
+Pattern:
+*****
+****
+***
+**
+*
+*/
 
 public class FirstCode 
 {
