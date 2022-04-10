@@ -1,0 +1,14 @@
+interface Abc
+{
+	void show();
+}
+
+public class lambdademo
+	{
+		public static void main(String[] args)
+		{
+			Abc obj = () -> System.out.println("lambda");
+			obj.show();
+		}
+		
+	}
